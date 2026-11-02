@@ -8,14 +8,12 @@
 ### Quirk for Energy Meter dual TC TS0601 _TZE204_81yrt3lo
 <img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/deb923a6-f3a8-4288-95cc-be14d7511d2a" />
 
-## Activer les Quirks personnalisés dans Home Assistant
-
-### Enabling custom quirks in Home Assistant
+## Enabling custom quirks in Home Assistant
 
  1. Create a folder called custom_zha_quirks in your Home Assistant configuration directory (/config/custom_zha_quirks).
 
  2. Add the path declaration to your "configuration.yaml" file:
-      zha:
-        custom_quirks_path: /config/custom_zha_quirks/
+      ### zha:
+      ###   custom_quirks_path: /config/custom_zha_quirks/
     
- 4. Add your file
+ 4. Add your file(s)
