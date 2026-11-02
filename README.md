@@ -12,6 +12,7 @@
 
  2. Add the path declaration to your "configuration.yaml" file:
       ### zha:
+    
       ###   custom_quirks_path: /config/custom_zha_quirks/
       ###
  4. Add your file(s)
