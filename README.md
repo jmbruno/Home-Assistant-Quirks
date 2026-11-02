@@ -1,5 +1,3 @@
-# Home-Assistant-Quirks
-
 ## This quirks is for modules zigbee not define in ZHA
 
 ### Quirk for Micro waves sensor TS0601 _TZE284_gnpflcoq
@@ -15,5 +13,5 @@
  2. Add the path declaration to your "configuration.yaml" file:
       ### zha:
       ###   custom_quirks_path: /config/custom_zha_quirks/
-    
+      ###
  4. Add your file(s)
