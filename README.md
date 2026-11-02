@@ -11,7 +11,7 @@
  1. Create a folder called custom_zha_quirks in your Home Assistant configuration directory (/config/custom_zha_quirks).
 
  2. Add the path declaration to your "configuration.yaml" file:
-      ### zha:  
+      ### zha:  <br>
       ###   custom_quirks_path: /config/custom_zha_quirks/
       ###
  4. Add your file(s)
